@@ -421,15 +421,8 @@ Please open an issue or submit a pull request!
 ## 📧 Contact
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com) • [Portfolio](https://yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/johnalvinm/) • [Email](mailto:johnalvinm@gmail.com)
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
