@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+venv/
+env/
+
+# ⚠️ CRITICAL: Exclude data (too large!)
+data/stanford_cars/
+data/raw/
+data/processed/
+data/samples/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# ⚠️ CRITICAL: Exclude models (too large!)
+models/*.pth
+models/*.pt
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
